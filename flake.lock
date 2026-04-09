@@ -23,16 +23,15 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1775751921,
-        "narHash": "sha256-6aYa4wrG8Ri/gzpEhli8c27y0e4NntQ5JS4pgCjxWwA=",
+        "lastModified": 1775776381,
+        "narHash": "sha256-qFkd1nr6BdSj4mDKB6zG1U7zOpPo8rQFr1aB+6eiGDY=",
         "owner": "y0usaf",
         "repo": "linear-cli",
-        "rev": "d820a267e3927e35faaf209cb03cc68f031225a0",
+        "rev": "95e95d07524c2531062c0eac1ab6aef984ab5627",
         "type": "github"
       },
       "original": {
         "owner": "y0usaf",
-        "ref": "nix-flake",
         "repo": "linear-cli",
         "type": "github"
       }

@@ -2,7 +2,7 @@
 
 `linear-cli` packaged for Nix via a wrapper flake.
 
-Currently tracks: `github:y0usaf/linear-cli?ref=nix-flake`
+Currently tracks: `github:y0usaf/linear-cli`
 
 ## Use
 
